@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devashish433
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning studying
+- 🌱 I’m currently learning html, css, bootstrap and JavaScript.
 - 💞️ I’m looking to collaborate on Html, Css and bootstrap
 - 📫 How to reach me Personal message
 
